@@ -16,16 +16,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   - Redux to manage application's state
   - Redux Thunk middleware to handle asynchronous redux actions
 
-## Database Seed
 
-- The seed command will create an admin user in the database
-- The email and password are passed with the command as arguments
-- Like below command, replace brackets with email and password.
-- For more information, see code [here](server/utils/seed.js)
-
-```
-npm run seed:db [email-***@****.com] [password-******] // This is just an example.
-```
 
 ## Demo
 
